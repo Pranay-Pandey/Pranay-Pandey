@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Pranay Pandey</h1>
-<h3 align="center">A passionate Data Science developer</h3>
+<h3 align="center">A passionate Data Science enthusiast</h3>
 
 ## 
 <p>
