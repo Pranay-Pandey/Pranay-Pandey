@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Pranay Pandey</h1>
-<h3 align="center">A passionate Data Science enthusiast and Robotics Developer</h3>
+<h3 align="center">A passionate web developer and machine learning enthusiast r</h3>
 
 ## 
 <p>
-      I am a highly motivated and results-driven individual with a strong background in computer vision and android development. I have a proven track record of leading teams and executing multiple projects successfully, delivering innovative solutions. I am detail-oriented, have excellent problem-solving and communication skills, and am committed to staying current and driving innovation for positive impact and efficient project management.
+      I am a highly motivated and results-driven individual with a strong background in web development and machine learning. I have a proven track record of leading teams and executing multiple projects successfully, delivering innovative solutions. I am detail-oriented, have excellent problem-solving and communication skills, and am committed to staying current and driving innovation for positive impact and efficient project management.
     </p>
     <h1>Skills</h1>
     <ul>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     </ul>
     <h1>Background</h1>
     <p>
-      My work experience includes collaborating with software engineers on various projects and testing procedures for system efficiency. I have experience in preparing design documents, alignments, and criteria details, as well as developing a file management system from scratch. Additionally, I have conducted research, compiled data, and produced timely reports for different techniques and algorithms. My expertise also includes developing pose estimation and object detection systems and conducting literature reviews to analyze reports and implement proof of concepts.
+      My work experience includes collaborating with software engineers on various projects and testing procedures for system efficiency including delivering scalable applications and websites. I have experience in preparing design documents, alignments, and criteria details, as well as developing a file management system from scratch. Additionally, I have conducted research, compiled data, and produced timely reports for different techniques and algorithms. My expertise also includes developing pose estimation and object detection systems and conducting literature reviews to analyze reports and implement proof of concepts.
     </p>
 
 
